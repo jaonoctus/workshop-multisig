@@ -28,7 +28,7 @@ Mais do que apenas uma assinatura
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/jaonoctus" target="_blank" alt="GitHub"
+  <a href="https://github.com/jaonoctus/workshop-multisig" target="_blank" alt="GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
